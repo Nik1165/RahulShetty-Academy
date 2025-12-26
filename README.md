@@ -1,4 +1,4 @@
 # RahulShetty-Academy
 This is my first Git Repository.
 <br>
-Author-Rahul shetty
+Author-Rahul shetty(BIT College)
